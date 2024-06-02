@@ -37,6 +37,14 @@ const commands = [
                 required: true,
             }
         ]
+    },
+    {
+        name: 'save',
+        description: '[admin only] Save the register to a file'
+    },
+    {
+        name: 'clear',
+        description: '[admin only] Clear the register'
     }
 ]
 
