@@ -16,11 +16,11 @@ const commands = [
     },
     {
         name: 'leave',
-        description: 'bitch out',
+        description: 'Leave the tournament',
     },
     {
         name: 'list',
-        description: 'Print the register',
+        description: 'Print the registered users',
     },
     {
         name: 'start',
